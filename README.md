@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Eberal Brevil
+.- 👋 Hi, I’m @Eberal Brevil
 -👀 I'm interested in all aspects Software engineering and software development
-I'm currently persuing a computer information system degree at Stockton University
+-I'm currently persuing a computer information system degree at Stockton University
 NB
-I'm looking to collaborate on projects
+-I'm looking to collaborate on projects
 that are easily accessible aim towards making lives better for everyone
 • C. you can reach me via email @ eberalbrevil@gmail.com, or phone number 6095556561
 
